@@ -7,3 +7,7 @@
 ## [alfred-flatten-folder](https://github.com/chrisspiegl/alfred-flatten-folder)
 
 Select one or multiple folders and flatten their contents into the parent folder.
+
+## [alfred-youtube-share-link](https://github.com/chrisspiegl/alfred-youtube-share-link)
+
+Shorten the YouTube link in your clipboard and copy the version which starts with `youtu.be/` for convenience.
