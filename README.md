@@ -11,3 +11,7 @@ Select one or multiple folders and flatten their contents into the parent folder
 ## [alfred-youtube-share-link](https://github.com/chrisspiegl/alfred-youtube-share-link)
 
 Shorten the YouTube link in your clipboard and copy the version which starts with `youtu.be/` for convenience.
+
+## [alfred-slugify](https://github.com/chrisspiegl/alfred-slugify)s
+
+Alfred workflow to slugify clipboard content, selected text, and filenames.
