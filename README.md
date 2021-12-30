@@ -12,6 +12,14 @@ Select one or multiple folders and flatten their contents into the parent folder
 
 Shorten the YouTube link in your clipboard and copy the version which starts with `youtu.be/` for convenience.
 
-## [alfred-slugify](https://github.com/chrisspiegl/alfred-slugify)s
+## [alfred-slugify](https://github.com/chrisspiegl/alfred-slugify)
 
 Alfred workflow to slugify clipboard content, selected text, and filenames.
+
+## [alfred-rename](https://github.com/chrisspiegl/alfred-rename)
+
+Alfred workflow to rename files and folders via your clipboard.
+
+## [alfred-create-empty](https://github.com/chrisspiegl/alfred-create-empty)
+
+Alfred workflow to create empty folders and files based on clipboard content.
