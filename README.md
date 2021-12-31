@@ -23,3 +23,7 @@ Alfred workflow to rename files and folders via your clipboard.
 ## [alfred-create-empty](https://github.com/chrisspiegl/alfred-create-empty)
 
 Alfred workflow to create empty folders and files based on clipboard content.
+
+## [alfred-copy-names](https://github.com/chrisspiegl/alfred-copy-names)
+
+Alfred workflow to copy just the file and/or folder names to your clipboard.
