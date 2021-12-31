@@ -27,3 +27,7 @@ Alfred workflow to create empty folders and files based on clipboard content.
 ## [alfred-copy-names](https://github.com/chrisspiegl/alfred-copy-names)
 
 Alfred workflow to copy just the file and/or folder names to your clipboard.
+
+## [alfred-case-change](https://github.com/chrisspiegl/alfred-case-change)
+
+Alfred workflow to change case on selected text, filenames, and more.
