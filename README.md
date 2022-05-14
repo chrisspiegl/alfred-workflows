@@ -12,6 +12,10 @@ Select one or multiple folders and flatten their contents into the parent folder
 
 Shorten the YouTube link in your clipboard and copy the version which starts with `youtu.be/` for convenience.
 
+## [alfred-youtube-thumbnail-link](https://github.com/chrisspiegl/alfred-youtube-thumbnail-link)
+
+Alfred workflow to get the YouTube thumbnail link from a url in your clipboard.
+
 ## [alfred-slugify](https://github.com/chrisspiegl/alfred-slugify)
 
 Alfred workflow to slugify clipboard content, selected text, and filenames.
