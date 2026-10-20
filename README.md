@@ -2,7 +2,9 @@
 
 > A directory of the workflows for [Alfred](https://alfredapp.com) I have developed and made available.
 
-*Most of these require [Node.js](https://nodejs.org) 14+ and the Alfred [Powerpack](https://alfredapp.com/powerpack/).*
+The Node workflows need [Node.js](https://nodejs.org) 20+ (verified on 24) and Alfred 5 with the [Powerpack](https://alfredapp.com/powerpack/).
+
+Maintainers release a Node workflow with `pnpm release` from that repo (npm publish and GitHub release).
 
 ## [alfred-flatten-folder](https://github.com/chrisspiegl/alfred-flatten-folder)
 
@@ -35,3 +37,11 @@ Alfred workflow to copy just the file and/or folder names to your clipboard.
 ## [alfred-case-change](https://github.com/chrisspiegl/alfred-case-change)
 
 Alfred workflow to change case on selected text, filenames, and more.
+
+## Deprecated and unmaintained
+
+Not a recommended install.
+
+### [alfred-image-shrinker](https://github.com/chrisspiegl/alfred-image-shrinker)
+
+Deprecated and unmaintained. Shrinks an image by reducing the longest side and optimizing color for sharing.
