@@ -28,7 +28,7 @@ Rename files and folders from clipboard text: prefix, postfix, replace, or remov
 
 ## [alfred-csv-transform](https://github.com/chrisspiegl/alfred-csv-transform)
 
-Convert CSV clipboard text between comma, semicolon, and tab delimiters (keyword `csvt`). Requires Alfred 5 with the Alfred Powerpack and Node.js 20 or newer, same as the other Node workflows.
+Keyword `csvt`. Select one or more CSV/TSV files in Finder, then run it from Alfred’s file browser. Converts those files between comma, semicolon, and tab delimiters, and writes a new file named `{original}.{comma|semicolon|tab}.csv` or `.tsv`. Needs Alfred 5 with the Powerpack and Node.js 20 or newer.
 
 ## [alfred-create-empty](https://github.com/chrisspiegl/alfred-create-empty)
 
