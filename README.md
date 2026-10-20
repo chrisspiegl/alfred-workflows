@@ -2,7 +2,9 @@
 
 > A directory of the workflows for [Alfred](https://alfredapp.com) I have developed and made available.
 
-*Most of these require [Node.js](https://nodejs.org) 14+ and the Alfred [Powerpack](https://alfredapp.com/powerpack/).*
+The Node workflows need [Node.js](https://nodejs.org) 20+ (verified on 24) and Alfred 5 with the [Powerpack](https://alfredapp.com/powerpack/).
+
+Maintainers release a Node workflow with `pnpm release` from that repo (npm publish and GitHub release).
 
 ## [alfred-flatten-folder](https://github.com/chrisspiegl/alfred-flatten-folder)
 
@@ -22,7 +24,11 @@ Alfred workflow to slugify clipboard content, selected text, and filenames.
 
 ## [alfred-rename](https://github.com/chrisspiegl/alfred-rename)
 
-Alfred workflow to rename files and folders via your clipboard.
+Rename files and folders from clipboard text: prefix, postfix, replace, or remove.
+
+## [alfred-csv-transform](https://github.com/chrisspiegl/alfred-csv-transform)
+
+Keyword `csvt`. Select one or more CSV/TSV files in Finder, then run it from Alfred’s file browser. Converts those files between comma, semicolon, and tab delimiters, and writes a new file named `{original}.{comma|semicolon|tab}.csv` or `.tsv`. Needs Alfred 5 with the Powerpack and Node.js 20 or newer.
 
 ## [alfred-create-empty](https://github.com/chrisspiegl/alfred-create-empty)
 
@@ -35,3 +41,11 @@ Alfred workflow to copy just the file and/or folder names to your clipboard.
 ## [alfred-case-change](https://github.com/chrisspiegl/alfred-case-change)
 
 Alfred workflow to change case on selected text, filenames, and more.
+
+## Deprecated and unmaintained
+
+Not a recommended install.
+
+### [alfred-image-shrinker](https://github.com/chrisspiegl/alfred-image-shrinker)
+
+Deprecated and unmaintained. Shrinks an image by reducing the longest side and optimizing color for sharing.
