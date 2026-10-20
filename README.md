@@ -24,7 +24,11 @@ Alfred workflow to slugify clipboard content, selected text, and filenames.
 
 ## [alfred-rename](https://github.com/chrisspiegl/alfred-rename)
 
-Alfred workflow to rename files and folders via your clipboard.
+Rename files and folders from clipboard text: prefix, postfix, replace, or remove.
+
+## [alfred-csv-transform](https://github.com/chrisspiegl/alfred-csv-transform)
+
+Convert CSV clipboard text between comma, semicolon, and tab delimiters (keyword `csvt`). Requires Alfred 5 with the Alfred Powerpack and Node.js 20 or newer, same as the other Node workflows.
 
 ## [alfred-create-empty](https://github.com/chrisspiegl/alfred-create-empty)
 
